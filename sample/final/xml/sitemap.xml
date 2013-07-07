@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<main id="main" title="Sextant Framework" className="br.com.sample.display.modules.Main" >
+		<asset name="library" src="swf/library.swf" type="swf"/>
+		<page id="page1" title="Page 1 - Sextant Framework Sample" hash="page1" className="br.com.sample.display.modules.Page1" />
+		<page id="page2" title="Page 2 - Sextant Framework Sample" hash="page2" className="br.com.sample.display.modules.Page2">
+			<asset name="image" src="img/image.jpg" type="jpg" />
+		</page>
+		<page id="page3" title="Page 3 - Sextant Framework Sample" hash="page3" className="br.com.sample.display.modules.Page3" />
+		<page id="page4" title="Page 4 - Sextant Framework Sample" hash="page4" className="br.com.sample.display.modules.Page4" />
+	</main>
+</data>
